@@ -1,1 +1,1 @@
-call venv/Scripts/activate
+call venv_server/Scripts/activate
